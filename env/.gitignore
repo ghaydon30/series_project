@@ -1,0 +1,23 @@
+# Virtual environment
+env/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Database files
+*.sqlite3
+
+# Logs
+*.log
+*.log.*
+
+# Local settings
+local_settings.py
+
+# IDE and editor files
+.vscode/
+.idea/
+
+.DS_Store
